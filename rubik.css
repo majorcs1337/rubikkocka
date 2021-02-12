@@ -12,7 +12,8 @@ p, h1, h2, h3 {
 }
 
 #cimkep{
-  float:left;  
+  float:left;
+  height: 170px;
 }
 
 h1{
